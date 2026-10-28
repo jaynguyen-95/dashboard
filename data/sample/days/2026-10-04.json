@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-04",
+  "hits": {
+    "s-1004-049": {
+      "amount": 186.83,
+      "at": 1791047956000,
+      "group": "Mystery",
+      "machine": "Silk Road 05",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791047956000
+    },
+    "s-1004-050": {
+      "amount": 293.33,
+      "at": 1791115520000,
+      "group": "Mystery",
+      "machine": "Golden Lotus 08",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791115520000
+    },
+    "s-1004-051": {
+      "amount": 554.37,
+      "at": 1791055092000,
+      "group": "Mystery",
+      "machine": "Fire Lantern 02",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791055092000
+    },
+    "s-1004-052": {
+      "amount": 574.42,
+      "at": 1791080948000,
+      "group": "Mystery",
+      "machine": "Silk Road 05",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791080948000
+    },
+    "s-1004-053": {
+      "amount": 307.86,
+      "at": 1791054060000,
+      "group": "Mystery",
+      "machine": "Red Phoenix 17",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791054060000
+    },
+    "s-1004-054": {
+      "amount": 1635.99,
+      "at": 1791075933000,
+      "group": "Mystery",
+      "machine": "Royal Dragon 12",
+      "name": "Daily",
+      "note": "",
+      "src": "sample",
+      "ts": 1791075933000
+    },
+    "s-1004-055": {
+      "amount": 2438.01,
+      "at": 1791091193000,
+      "group": "Mystery",
+      "machine": "Imperial Gold 09",
+      "name": "Daily",
+      "note": "",
+      "src": "sample",
+      "ts": 1791091193000
+    },
+    "s-1004-056": {
+      "amount": 3433.36,
+      "at": 1791070105000,
+      "group": "Mystery",
+      "machine": "Ocean Pearl 14",
+      "name": "Daily Golden",
+      "note": "",
+      "src": "sample",
+      "ts": 1791070105000
+    },
+    "s-1004-057": {
+      "amount": 1889.16,
+      "at": 1791129150000,
+      "group": "Mystery",
+      "machine": "Royal Dragon 12",
+      "name": "Dozen",
+      "note": "",
+      "src": "sample",
+      "ts": 1791129150000
+    },
+    "s-1004-058": {
+      "amount": 1050.24,
+      "at": 1791120542000,
+      "group": "Mystery",
+      "machine": "Silk Road 05",
+      "name": "Triple",
+      "note": "",
+      "src": "sample",
+      "ts": 1791120542000
+    },
+    "s-1004-059": {
+      "amount": 5978.74,
+      "at": 1791065965000,
+      "group": "Mystery",
+      "machine": "Royal Dragon 12",
+      "name": "Highlimit",
+      "note": "",
+      "src": "sample",
+      "ts": 1791065965000
+    },
+    "s-1004-060": {
+      "amount": 138650,
+      "at": 1791111666000,
+      "group": "Mystery",
+      "machine": "Imperial Gold 09",
+      "name": "Vegas",
+      "note": "",
+      "src": "sample",
+      "ts": 1791111666000
+    },
+    "s-1004-061": {
+      "amount": 2292.03,
+      "at": 1791126314000,
+      "group": "Hot Seat",
+      "machine": "",
+      "name": "PPocchi",
+      "note": "",
+      "src": "sample",
+      "ts": 1791126314000
+    },
+    "s-1004-062": {
+      "amount": 4841.87,
+      "at": 1791053172000,
+      "group": "Hot Seat",
+      "machine": "",
+      "name": "Sunday JP Town",
+      "note": "",
+      "src": "sample",
+      "ts": 1791053172000
+    },
+    "s-1004-063": {
+      "amount": 2788.84,
+      "at": 1791051438000,
+      "group": "Hot Seat",
+      "machine": "",
+      "name": "Sunday JP Town",
+      "note": "",
+      "src": "sample",
+      "ts": 1791051438000
+    },
+    "s-1004-064": {
+      "amount": 4913.73,
+      "at": 1791076346000,
+      "group": "Hot Seat",
+      "machine": "",
+      "name": "Sunday JP Town",
+      "note": "",
+      "src": "sample",
+      "ts": 1791076346000
+    },
+    "s-1004-065": {
+      "amount": 1307.85,
+      "at": 1791094934000,
+      "group": "Hot Seat",
+      "machine": "",
+      "name": "Sunday JP Town",
+      "note": "",
+      "src": "sample",
+      "ts": 1791094934000
+    },
+    "s-1004-066": {
+      "amount": 4327.27,
+      "at": 1791094588000,
+      "group": "Hot Seat",
+      "machine": "",
+      "name": "Sunday JP Town",
+      "note": "",
+      "src": "sample",
+      "ts": 1791094588000
+    },
+    "s-1004-067": {
+      "amount": 3097.47,
+      "at": 1791107782000,
+      "group": "Hot Seat",
+      "machine": "",
+      "name": "Sunday JP Town",
+      "note": "",
+      "src": "sample",
+      "ts": 1791107782000
+    },
+    "s-1004-068": {
+      "amount": 2382.54,
+      "at": 1791107749000,
+      "group": "Machine",
+      "machine": "Red Phoenix 17",
+      "name": "Red Phoenix 17",
+      "note": "",
+      "src": "sample",
+      "ts": 1791107749000
+    },
+    "s-1004-069": {
+      "amount": 1806.41,
+      "at": 1791088499000,
+      "group": "Machine",
+      "machine": "Imperial Gold 09",
+      "name": "Imperial Gold 09",
+      "note": "",
+      "src": "sample",
+      "ts": 1791088499000
+    }
+  }
+}

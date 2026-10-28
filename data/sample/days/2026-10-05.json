@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-05",
+  "hits": {
+    "s-1005-070": {
+      "amount": 170.06,
+      "at": 1791163374000,
+      "group": "Mystery",
+      "machine": "Golden Lotus 08",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791163374000
+    },
+    "s-1005-071": {
+      "amount": 584.39,
+      "at": 1791188362000,
+      "group": "Mystery",
+      "machine": "Imperial Gold 09",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791188362000
+    },
+    "s-1005-072": {
+      "amount": 129.71,
+      "at": 1791175356000,
+      "group": "Mystery",
+      "machine": "Emerald Tiger 11",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791175356000
+    },
+    "s-1005-073": {
+      "amount": 306.17,
+      "at": 1791203473000,
+      "group": "Mystery",
+      "machine": "Fire Lantern 02",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791203473000
+    },
+    "s-1005-074": {
+      "amount": 280.84,
+      "at": 1791158637000,
+      "group": "Mystery",
+      "machine": "Red Phoenix 17",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791158637000
+    },
+    "s-1005-075": {
+      "amount": 845.74,
+      "at": 1791184204000,
+      "group": "Mystery",
+      "machine": "Lucky Koi 21",
+      "name": "Daily",
+      "note": "",
+      "src": "sample",
+      "ts": 1791184204000
+    },
+    "s-1005-076": {
+      "amount": 1696.34,
+      "at": 1791156952000,
+      "group": "Mystery",
+      "machine": "Lucky Koi 21",
+      "name": "Daily",
+      "note": "",
+      "src": "sample",
+      "ts": 1791156952000
+    },
+    "s-1005-077": {
+      "amount": 3980.47,
+      "at": 1791179360000,
+      "group": "Mystery",
+      "machine": "Jade Empress 03",
+      "name": "Daily Golden",
+      "note": "",
+      "src": "sample",
+      "ts": 1791179360000
+    },
+    "s-1005-078": {
+      "amount": 1930.84,
+      "at": 1791183488000,
+      "group": "Mystery",
+      "machine": "Imperial Gold 09",
+      "name": "Dozen",
+      "note": "",
+      "src": "sample",
+      "ts": 1791183488000
+    },
+    "s-1005-079": {
+      "amount": 2369.9,
+      "at": 1791177119000,
+      "group": "Mystery",
+      "machine": "Fire Lantern 02",
+      "name": "Triple",
+      "note": "",
+      "src": "sample",
+      "ts": 1791177119000
+    },
+    "s-1005-080": {
+      "amount": 792.39,
+      "at": 1791146610000,
+      "group": "Hot Seat",
+      "machine": "",
+      "name": "PPocchi",
+      "note": "",
+      "src": "sample",
+      "ts": 1791146610000
+    },
+    "s-1005-081": {
+      "amount": 23822.24,
+      "at": 1791187075000,
+      "group": "Machine",
+      "machine": "Fire Lantern 02",
+      "name": "Fire Lantern 02",
+      "note": "",
+      "src": "sample",
+      "ts": 1791187075000
+    },
+    "s-1005-082": {
+      "amount": 11171.96,
+      "at": 1791174783000,
+      "group": "Machine",
+      "machine": "Ocean Pearl 14",
+      "name": "Ocean Pearl 14",
+      "note": "",
+      "src": "sample",
+      "ts": 1791174783000
+    }
+  }
+}

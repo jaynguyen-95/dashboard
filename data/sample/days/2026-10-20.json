@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-20",
+  "hits": {
+    "sim-mvg362wdyx7g": {
+      "amount": 2243.23,
+      "at": 1792464643885,
+      "group": "Machine",
+      "machine": "Red Phoenix 17",
+      "mc": "5003",
+      "name": "Red Phoenix 17",
+      "note": "",
+      "src": "sim",
+      "ts": 1792464643885
+    },
+    "sim-mvg37orphbbu": {
+      "amount": 277.21,
+      "at": 1792464718885,
+      "group": "Mystery",
+      "machine": "Jade Empress 03",
+      "mc": "1102",
+      "name": "Frequent",
+      "note": "",
+      "src": "sim",
+      "ts": 1792464718885
+    },
+    "sim-mvg3a5i5qgyb": {
+      "amount": 290.27,
+      "at": 1792464833885,
+      "group": "Mystery",
+      "machine": "Red Phoenix 17",
+      "mc": "5003",
+      "name": "Frequent",
+      "note": "",
+      "src": "sim",
+      "ts": 1792464833885
+    },
+    "sim-mvg3bdglw378": {
+      "amount": 843.63,
+      "at": 1792464890853,
+      "group": "Hot Seat",
+      "machine": "",
+      "mc": "4850",
+      "name": "PPocchi",
+      "note": "",
+      "src": "sim",
+      "ts": 1792464890853
+    },
+    "sim-mvg3cg2g5rzn": {
+      "amount": 10011.41,
+      "at": 1792464940888,
+      "group": "Machine",
+      "machine": "Silk Road 05",
+      "mc": "6001",
+      "name": "Silk Road 05",
+      "note": "",
+      "src": "sim",
+      "ts": 1792464940888
+    }
+  }
+}

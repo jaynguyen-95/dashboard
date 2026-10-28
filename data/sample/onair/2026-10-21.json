@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-21",
+  "pit": {
+    "A": {
+      "id": "h01",
+      "name": "Ava"
+    },
+    "B": {
+      "id": "h02",
+      "name": "Bella"
+    },
+    "C": {
+      "id": "h03",
+      "name": "Cora"
+    }
+  },
+  "crew": [
+    {
+      "id": "h04",
+      "name": "Daisy",
+      "shift": "A",
+      "off": 360
+    },
+    {
+      "id": "h05",
+      "name": "Eva",
+      "shift": "A",
+      "off": 360
+    },
+    {
+      "id": "h06",
+      "name": "Fiona",
+      "shift": "A",
+      "off": 420
+    },
+    {
+      "id": "h07",
+      "name": "Gina",
+      "shift": "B",
+      "off": 840
+    },
+    {
+      "id": "h08",
+      "name": "Hana",
+      "shift": "B",
+      "off": 840
+    },
+    {
+      "id": "h09",
+      "name": "Iris",
+      "shift": "B",
+      "off": 900
+    },
+    {
+      "id": "h10",
+      "name": "Jade",
+      "shift": "C",
+      "off": 1320
+    },
+    {
+      "id": "h11",
+      "name": "Kira",
+      "shift": "C",
+      "off": 1500
+    }
+  ]
+}

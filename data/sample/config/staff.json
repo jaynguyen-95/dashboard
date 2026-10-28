@@ -1,0 +1,64 @@
+{
+  "people": {
+    "h01": {
+      "name": "Ava",
+      "photo": null,
+      "order": 1
+    },
+    "h02": {
+      "name": "Bella",
+      "photo": null,
+      "order": 2
+    },
+    "h03": {
+      "name": "Cora",
+      "photo": null,
+      "order": 3
+    },
+    "h04": {
+      "name": "Daisy",
+      "photo": null,
+      "order": 4
+    },
+    "h05": {
+      "name": "Eva",
+      "photo": null,
+      "order": 5
+    },
+    "h06": {
+      "name": "Fiona",
+      "photo": null,
+      "order": 6
+    },
+    "h07": {
+      "name": "Gina",
+      "photo": null,
+      "order": 7
+    },
+    "h08": {
+      "name": "Hana",
+      "photo": null,
+      "order": 8
+    },
+    "h09": {
+      "name": "Iris",
+      "photo": null,
+      "order": 9
+    },
+    "h10": {
+      "name": "Jade",
+      "photo": null,
+      "order": 10
+    },
+    "h11": {
+      "name": "Kira",
+      "photo": null,
+      "order": 11
+    },
+    "h12": {
+      "name": "Luna",
+      "photo": null,
+      "order": 12
+    }
+  }
+}

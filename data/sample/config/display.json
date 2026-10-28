@@ -1,0 +1,28 @@
+{
+  "bg": {
+    "angle": 200,
+    "asset": null,
+    "assetType": null,
+    "c1": "#8f1e00",
+    "c2": "#110101",
+    "color": "#e5d4c2",
+    "overlay": 0.2,
+    "preset": "aurora",
+    "tone": "light",
+    "type": "animated"
+  },
+  "cards": {
+    "day": {
+      "every": true,
+      "today": true
+    }
+  },
+  "tabs": {
+    "day": true,
+    "live": true,
+    "month": true,
+    "week": true,
+    "year": true
+  },
+  "theme": "light"
+}

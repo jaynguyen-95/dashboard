@@ -1,0 +1,238 @@
+{
+  "at": 1792464943888,
+  "best": {
+    "Hot Seat": {
+      "amount": 14439.51,
+      "group": "Hot Seat",
+      "id": "s-y026",
+      "machine": "",
+      "name": "Sunday JP Town",
+      "ts": 1786221060000
+    },
+    "Machine": {
+      "amount": 251709.71,
+      "group": "Machine",
+      "id": "s-y019",
+      "machine": "Golden Lotus 08",
+      "name": "Golden Lotus 08",
+      "ts": 1775594340000
+    },
+    "Mystery": {
+      "amount": 415180,
+      "group": "Mystery",
+      "id": "s-y001",
+      "machine": "Imperial Gold 09",
+      "name": "Vegas",
+      "ts": 1787368380000
+    }
+  },
+  "months": {
+    "2026-01": {
+      "n": 410,
+      "sum": 2651432.95
+    },
+    "2026-02": {
+      "n": 511,
+      "sum": 3011917.99
+    },
+    "2026-03": {
+      "n": 406,
+      "sum": 3272531.77
+    },
+    "2026-04": {
+      "n": 487,
+      "sum": 3161710.72
+    },
+    "2026-05": {
+      "n": 520,
+      "sum": 3226641.91
+    },
+    "2026-06": {
+      "n": 505,
+      "sum": 3126128.55
+    },
+    "2026-07": {
+      "n": 492,
+      "sum": 2563927.49
+    },
+    "2026-08": {
+      "n": 400,
+      "sum": 2421810.2
+    },
+    "2026-09": {
+      "n": 405,
+      "sum": 2794620.32
+    },
+    "2026-10": {
+      "n": 427,
+      "sum": 2980146.66
+    }
+  },
+  "rebuiltAt": 1791790921051,
+  "top": [
+    {
+      "amount": 415180,
+      "group": "Mystery",
+      "id": "s-y001",
+      "machine": "Imperial Gold 09",
+      "name": "Vegas",
+      "ts": 1787368380000
+    },
+    {
+      "amount": 390355,
+      "group": "Mystery",
+      "id": "s-y003",
+      "machine": "Red Phoenix 17",
+      "name": "Vegas",
+      "ts": 1771409880000
+    },
+    {
+      "amount": 388021.14,
+      "group": "Mystery",
+      "id": "s-y005",
+      "machine": "Fire Lantern 02",
+      "name": "Vegas",
+      "ts": 1789504020000
+    },
+    {
+      "amount": 353546.87,
+      "group": "Mystery",
+      "id": "s-y002",
+      "machine": "Fire Lantern 02",
+      "name": "Vegas",
+      "ts": 1782452820000
+    },
+    {
+      "amount": 251709.71,
+      "group": "Machine",
+      "id": "s-y019",
+      "machine": "Golden Lotus 08",
+      "name": "Golden Lotus 08",
+      "ts": 1775594340000
+    },
+    {
+      "amount": 245978.59,
+      "group": "Machine",
+      "id": "s-y020",
+      "machine": "Emerald Tiger 11",
+      "name": "Emerald Tiger 11",
+      "ts": 1780593600000
+    },
+    {
+      "amount": 244130,
+      "group": "Machine",
+      "id": "s-y017",
+      "machine": "Imperial Gold 09",
+      "name": "Imperial Gold 09",
+      "ts": 1780530420000
+    },
+    {
+      "amount": 241620.1,
+      "group": "Machine",
+      "id": "s-y016",
+      "machine": "Royal Dragon 12",
+      "name": "Royal Dragon 12",
+      "ts": 1773505800000
+    },
+    {
+      "amount": 218853.21,
+      "group": "Machine",
+      "id": "s-y022",
+      "machine": "Jade Empress 03",
+      "name": "Jade Empress 03",
+      "ts": 1788981960000
+    },
+    {
+      "amount": 201765,
+      "group": "Mystery",
+      "id": "s-y004",
+      "machine": "Silk Road 05",
+      "name": "Vegas",
+      "ts": 1777648980000
+    },
+    {
+      "amount": 181710,
+      "group": "Machine",
+      "id": "s-y021",
+      "machine": "Fire Lantern 02",
+      "name": "Fire Lantern 02",
+      "ts": 1787501280000
+    },
+    {
+      "amount": 138650,
+      "group": "Mystery",
+      "id": "s-1004-060",
+      "machine": "Imperial Gold 09",
+      "mc": "",
+      "name": "Vegas",
+      "ts": 1791111666000
+    },
+    {
+      "amount": 138581.08,
+      "group": "Mystery",
+      "id": "s-y006",
+      "machine": "Imperial Gold 09",
+      "name": "Vegas Weekly",
+      "ts": 1786612560000
+    },
+    {
+      "amount": 136573.44,
+      "group": "Mystery",
+      "id": "sim-mvafg5xailhb",
+      "machine": "Jade Empress 03",
+      "mc": "1102",
+      "name": "Vegas",
+      "ts": 1792122472702
+    },
+    {
+      "amount": 135935,
+      "group": "Machine",
+      "id": "s-y024",
+      "machine": "Royal Dragon 12",
+      "name": "Royal Dragon 12",
+      "ts": 1767506160000
+    },
+    {
+      "amount": 125450.58,
+      "group": "Mystery",
+      "id": "s-y007",
+      "machine": "Lucky Koi 21",
+      "name": "Vegas Weekly",
+      "ts": 1789580160000
+    },
+    {
+      "amount": 117161.87,
+      "group": "Mystery",
+      "id": "s-y009",
+      "machine": "Ocean Pearl 14",
+      "name": "Vegas Weekly",
+      "ts": 1777322400000
+    },
+    {
+      "amount": 112480,
+      "group": "Machine",
+      "id": "s-1006-100",
+      "machine": "Imperial Gold 09",
+      "mc": "",
+      "name": "Imperial Gold 09",
+      "ts": 1791289803000
+    },
+    {
+      "amount": 111749.04,
+      "group": "Mystery",
+      "id": "s-y010",
+      "machine": "Red Phoenix 17",
+      "name": "Vegas Weekly",
+      "ts": 1788949500000
+    },
+    {
+      "amount": 107372.45,
+      "group": "Machine",
+      "id": "s-y023",
+      "machine": "Jade Empress 03",
+      "name": "Jade Empress 03",
+      "ts": 1778999040000
+    }
+  ],
+  "year": 2026
+}

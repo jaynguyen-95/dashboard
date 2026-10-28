@@ -1,0 +1,62 @@
+{
+  "activePlayers": 350,
+  "at": 1792464941286,
+  "hots": [
+    {
+      "amount": 111390.92,
+      "at": 1792464941286,
+      "group": "Mystery",
+      "max": 200000,
+      "name": "Vegas",
+      "rate": 1.1
+    },
+    {
+      "amount": 51877.3,
+      "at": 1792464941286,
+      "group": "Mystery",
+      "max": 80000,
+      "name": "Vegas Weekly",
+      "rate": 0.45
+    },
+    {
+      "amount": 35812.73,
+      "at": 1792464941286,
+      "group": "Mystery",
+      "max": 50000,
+      "name": "Highlimit",
+      "rate": 0.3
+    },
+    {
+      "amount": 7230.51,
+      "at": 1792464941286,
+      "group": "Mystery",
+      "max": 10000,
+      "name": "Daily Golden",
+      "rate": 0.08
+    },
+    {
+      "amount": 9326.81,
+      "at": 1792464941286,
+      "group": "Hot Seat",
+      "max": 15000,
+      "name": "Sunday JP Town",
+      "rate": 0.1
+    },
+    {
+      "amount": 85457.56,
+      "at": 1792464941286,
+      "group": "Machine",
+      "max": 150000,
+      "name": "Imperial Gold 09",
+      "rate": 0.8
+    }
+  ],
+  "machinesAvailable": 68,
+  "machinesByType": {
+    "baccarat": 6,
+    "roulette": 5,
+    "slot": 57
+  },
+  "machinesTotal": 240,
+  "src": "sim"
+}

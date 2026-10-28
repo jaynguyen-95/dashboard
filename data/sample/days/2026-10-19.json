@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-19",
+  "hits": {
+    "sim-mveoevdl4g63": {
+      "amount": 11838.39,
+      "at": 1792379393625,
+      "group": "Machine",
+      "machine": "Fire Lantern 02",
+      "mc": "4020",
+      "name": "Fire Lantern 02",
+      "note": "",
+      "src": "sim",
+      "ts": 1792379393625
+    },
+    "sim-mveohgphr64j": {
+      "amount": 1737.77,
+      "at": 1792379514581,
+      "group": "Mystery",
+      "machine": "Jade Empress 03",
+      "mc": "1102",
+      "name": "Daily",
+      "note": "",
+      "src": "sim",
+      "ts": 1792379514581
+    },
+    "sim-mveojcaz2wd9": {
+      "amount": 100.53,
+      "at": 1792379602187,
+      "group": "Mystery",
+      "machine": "Golden Lotus 08",
+      "mc": "2005",
+      "name": "Frequent",
+      "note": "",
+      "src": "sim",
+      "ts": 1792379602187
+    },
+    "sim-mveolotpqsz9": {
+      "amount": 510.74,
+      "at": 1792379711725,
+      "group": "Hot Seat",
+      "machine": "",
+      "mc": "5231",
+      "name": "PPocchi",
+      "note": "",
+      "src": "sim",
+      "ts": 1792379711725
+    },
+    "sim-mveoqoyqaldv": {
+      "amount": 27257.31,
+      "at": 1792379945187,
+      "group": "Machine",
+      "machine": "Royal Dragon 12",
+      "mc": "3001",
+      "name": "Royal Dragon 12",
+      "note": "",
+      "src": "sim",
+      "ts": 1792379945186
+    },
+    "sim-mveowsu194qz": {
+      "amount": 16108.11,
+      "at": 1792380230137,
+      "group": "Machine",
+      "machine": "Silk Road 05",
+      "mc": "6001",
+      "name": "Silk Road 05",
+      "note": "",
+      "src": "sim",
+      "ts": 1792380230137
+    },
+    "sim-mvep0mciaq40": {
+      "amount": 427.63,
+      "at": 1792380408354,
+      "group": "Hot Seat",
+      "machine": "",
+      "mc": "1438",
+      "name": "PPocchi",
+      "note": "",
+      "src": "sim",
+      "ts": 1792380408354
+    },
+    "sim-mvepb5sh18je": {
+      "amount": 28134.64,
+      "at": 1792380900114,
+      "group": "Machine",
+      "machine": "Silk Road 05",
+      "mc": "6001",
+      "name": "Silk Road 05",
+      "note": "",
+      "src": "sim",
+      "ts": 1792380900113
+    },
+    "sim-mvepdk6cnqx0": {
+      "amount": 2427.92,
+      "at": 1792381012068,
+      "group": "Mystery",
+      "machine": "Emerald Tiger 11",
+      "mc": "5009",
+      "name": "Daily",
+      "note": "",
+      "src": "sim",
+      "ts": 1792381012068
+    },
+    "sim-mvepgoutam2e": {
+      "amount": 2118.48,
+      "at": 1792381158101,
+      "group": "Hot Seat",
+      "machine": "",
+      "mc": "3220",
+      "name": "PPocchi",
+      "note": "",
+      "src": "sim",
+      "ts": 1792381158101
+    },
+    "sim-mveq17xpvn7m": {
+      "amount": 2540.75,
+      "at": 1792382115949,
+      "group": "Mystery",
+      "machine": "Red Phoenix 17",
+      "mc": "5003",
+      "name": "Dozen",
+      "note": "",
+      "src": "sim",
+      "ts": 1792382115949
+    },
+    "sim-mveq5twcvzes": {
+      "amount": 177.44,
+      "at": 1792382331037,
+      "group": "Mystery",
+      "machine": "Golden Lotus 08",
+      "mc": "2005",
+      "name": "Frequent",
+      "note": "",
+      "src": "sim",
+      "ts": 1792382331036
+    }
+  }
+}

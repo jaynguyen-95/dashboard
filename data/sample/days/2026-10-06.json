@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-06",
+  "hits": {
+    "s-1006-083": {
+      "amount": 500.29,
+      "at": 1791226118000,
+      "group": "Mystery",
+      "machine": "Golden Lotus 08",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791226118000
+    },
+    "s-1006-084": {
+      "amount": 482.3,
+      "at": 1791249193000,
+      "group": "Mystery",
+      "machine": "Royal Dragon 12",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791249193000
+    },
+    "s-1006-085": {
+      "amount": 125.8,
+      "at": 1791265565000,
+      "group": "Mystery",
+      "machine": "Red Phoenix 17",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791265565000
+    },
+    "s-1006-086": {
+      "amount": 231.81,
+      "at": 1791224187000,
+      "group": "Mystery",
+      "machine": "Royal Dragon 12",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791224187000
+    },
+    "s-1006-087": {
+      "amount": 282.85,
+      "at": 1791289063000,
+      "group": "Mystery",
+      "machine": "Emerald Tiger 11",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791289063000
+    },
+    "s-1006-088": {
+      "amount": 592.09,
+      "at": 1791260968000,
+      "group": "Mystery",
+      "machine": "Red Phoenix 17",
+      "name": "Daily",
+      "note": "",
+      "src": "sample",
+      "ts": 1791260968000
+    },
+    "s-1006-089": {
+      "amount": 838.23,
+      "at": 1791258050000,
+      "group": "Mystery",
+      "machine": "Golden Lotus 08",
+      "name": "Daily",
+      "note": "",
+      "src": "sample",
+      "ts": 1791258050000
+    },
+    "s-1006-090": {
+      "amount": 4328.59,
+      "at": 1791222996000,
+      "group": "Mystery",
+      "machine": "Red Phoenix 17",
+      "name": "Daily Golden",
+      "note": "",
+      "src": "sample",
+      "ts": 1791222996000
+    },
+    "s-1006-091": {
+      "amount": 1433.71,
+      "at": 1791255440000,
+      "group": "Mystery",
+      "machine": "Fire Lantern 02",
+      "name": "Dozen",
+      "note": "",
+      "src": "sample",
+      "ts": 1791255440000
+    },
+    "s-1006-092": {
+      "amount": 1222.88,
+      "at": 1791272440000,
+      "group": "Mystery",
+      "machine": "Golden Lotus 08",
+      "name": "Triple",
+      "note": "",
+      "src": "sample",
+      "ts": 1791272440000
+    },
+    "s-1006-093": {
+      "amount": 28618.99,
+      "at": 1791232822000,
+      "group": "Mystery",
+      "machine": "Fire Lantern 02",
+      "name": "Highlimit",
+      "note": "",
+      "src": "sample",
+      "ts": 1791232822000
+    },
+    "s-1006-094": {
+      "amount": 1673.96,
+      "at": 1791274219000,
+      "group": "Hot Seat",
+      "machine": "",
+      "name": "PPocchi",
+      "note": "",
+      "src": "sample",
+      "ts": 1791274219000
+    },
+    "s-1006-095": {
+      "amount": 3207.22,
+      "at": 1791251765000,
+      "group": "Machine",
+      "machine": "Golden Lotus 08",
+      "name": "Golden Lotus 08",
+      "note": "",
+      "src": "sample",
+      "ts": 1791251765000
+    },
+    "s-1006-096": {
+      "amount": 2622.16,
+      "at": 1791229470000,
+      "group": "Machine",
+      "machine": "Royal Dragon 12",
+      "name": "Royal Dragon 12",
+      "note": "",
+      "src": "sample",
+      "ts": 1791229470000
+    },
+    "s-1006-097": {
+      "amount": 1070.47,
+      "at": 1791302931000,
+      "group": "Machine",
+      "machine": "Jade Empress 03",
+      "name": "Jade Empress 03",
+      "note": "",
+      "src": "sample",
+      "ts": 1791302931000
+    },
+    "s-1006-098": {
+      "amount": 23719.04,
+      "at": 1791297362000,
+      "group": "Machine",
+      "machine": "Jade Empress 03",
+      "name": "Jade Empress 03",
+      "note": "",
+      "src": "sample",
+      "ts": 1791297362000
+    },
+    "s-1006-099": {
+      "amount": 3388.19,
+      "at": 1791269235000,
+      "group": "Machine",
+      "machine": "Royal Dragon 12",
+      "name": "Royal Dragon 12",
+      "note": "",
+      "src": "sample",
+      "ts": 1791269235000
+    },
+    "s-1006-100": {
+      "amount": 112480,
+      "at": 1791289803000,
+      "group": "Machine",
+      "machine": "Imperial Gold 09",
+      "name": "Imperial Gold 09",
+      "note": "",
+      "src": "sample",
+      "ts": 1791289803000
+    }
+  }
+}

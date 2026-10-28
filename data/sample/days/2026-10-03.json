@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-03",
+  "hits": {
+    "s-1003-031": {
+      "amount": 113.53,
+      "at": 1791026650000,
+      "group": "Mystery",
+      "machine": "Royal Dragon 12",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791026650000
+    },
+    "s-1003-032": {
+      "amount": 469.83,
+      "at": 1790979475000,
+      "group": "Mystery",
+      "machine": "Fire Lantern 02",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1790979475000
+    },
+    "s-1003-033": {
+      "amount": 140.79,
+      "at": 1791014352000,
+      "group": "Mystery",
+      "machine": "Emerald Tiger 11",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1791014352000
+    },
+    "s-1003-034": {
+      "amount": 152.12,
+      "at": 1790974176000,
+      "group": "Mystery",
+      "machine": "Ocean Pearl 14",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1790974176000
+    },
+    "s-1003-035": {
+      "amount": 330.69,
+      "at": 1790988053000,
+      "group": "Mystery",
+      "machine": "Lucky Koi 21",
+      "name": "Frequent",
+      "note": "",
+      "src": "sample",
+      "ts": 1790988053000
+    },
+    "s-1003-036": {
+      "amount": 1079.96,
+      "at": 1791023996000,
+      "group": "Mystery",
+      "machine": "Royal Dragon 12",
+      "name": "Daily",
+      "note": "",
+      "src": "sample",
+      "ts": 1791023996000
+    },
+    "s-1003-037": {
+      "amount": 1752.65,
+      "at": 1790980531000,
+      "group": "Mystery",
+      "machine": "Imperial Gold 09",
+      "name": "Daily",
+      "note": "",
+      "src": "sample",
+      "ts": 1790980531000
+    },
+    "s-1003-038": {
+      "amount": 1520.6,
+      "at": 1791024023000,
+      "group": "Mystery",
+      "machine": "Emerald Tiger 11",
+      "name": "Daily Golden",
+      "note": "",
+      "src": "sample",
+      "ts": 1791024023000
+    },
+    "s-1003-039": {
+      "amount": 2608.65,
+      "at": 1791040150000,
+      "group": "Mystery",
+      "machine": "Silk Road 05",
+      "name": "Dozen",
+      "note": "",
+      "src": "sample",
+      "ts": 1791040150000
+    },
+    "s-1003-040": {
+      "amount": 2368.1,
+      "at": 1791000876000,
+      "group": "Mystery",
+      "machine": "Royal Dragon 12",
+      "name": "Triple",
+      "note": "",
+      "src": "sample",
+      "ts": 1791000876000
+    },
+    "s-1003-041": {
+      "amount": 30299.49,
+      "at": 1791042473000,
+      "group": "Mystery",
+      "machine": "Silk Road 05",
+      "name": "Highlimit",
+      "note": "",
+      "src": "sample",
+      "ts": 1791042473000
+    },
+    "s-1003-042": {
+      "amount": 8822.05,
+      "at": 1791011990000,
+      "group": "Mystery",
+      "machine": "Fire Lantern 02",
+      "name": "Weekly",
+      "note": "",
+      "src": "sample",
+      "ts": 1791011990000
+    },
+    "s-1003-043": {
+      "amount": 30389.41,
+      "at": 1791021377000,
+      "group": "Mystery",
+      "machine": "Golden Lotus 08",
+      "name": "Vegas Weekly",
+      "note": "",
+      "src": "sample",
+      "ts": 1791021377000
+    },
+    "s-1003-044": {
+      "amount": 2692.27,
+      "at": 1791037564000,
+      "group": "Hot Seat",
+      "machine": "",
+      "name": "PPocchi",
+      "note": "",
+      "src": "sample",
+      "ts": 1791037564000
+    },
+    "s-1003-045": {
+      "amount": 1242.55,
+      "at": 1790979033000,
+      "group": "Hot Seat",
+      "machine": "",
+      "name": "PPocchi",
+      "note": "",
+      "src": "sample",
+      "ts": 1790979033000
+    },
+    "s-1003-046": {
+      "amount": 548.82,
+      "at": 1791020353000,
+      "group": "Hot Seat",
+      "machine": "",
+      "name": "PPocchi",
+      "note": "",
+      "src": "sample",
+      "ts": 1791020353000
+    },
+    "s-1003-047": {
+      "amount": 7125.76,
+      "at": 1791037820000,
+      "group": "Machine",
+      "machine": "Imperial Gold 09",
+      "name": "Imperial Gold 09",
+      "note": "",
+      "src": "sample",
+      "ts": 1791037820000
+    },
+    "s-1003-048": {
+      "amount": 7623.89,
+      "at": 1791016491000,
+      "group": "Machine",
+      "machine": "Fire Lantern 02",
+      "name": "Fire Lantern 02",
+      "note": "",
+      "src": "sample",
+      "ts": 1791016491000
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-13",
+  "hits": {
+    "sim-mv6rq2xrq7rs": {
+      "amount": 18532.78,
+      "at": 1791901226079,
+      "group": "Machine",
+      "machine": "Jade Empress 03",
+      "mc": "1102",
+      "name": "Jade Empress 03",
+      "note": "",
+      "src": "sim",
+      "ts": 1791901226079
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-16",
+  "hits": {
+    "sim-mvafg5xailhb": {
+      "amount": 136573.44,
+      "at": 1792122472702,
+      "group": "Mystery",
+      "machine": "Jade Empress 03",
+      "mc": "1102",
+      "name": "Vegas",
+      "note": "",
+      "src": "sim",
+      "ts": 1792122472702
+    },
+    "sim-mvafh874vbcc": {
+      "amount": 35196.23,
+      "at": 1792122522304,
+      "group": "Mystery",
+      "machine": "Emerald Tiger 11",
+      "mc": "5009",
+      "name": "Highlimit",
+      "note": "",
+      "src": "sim",
+      "ts": 1792122522304
+    },
+    "sim-mvafj8pdulyu": {
+      "amount": 144.31,
+      "at": 1792122616274,
+      "group": "Mystery",
+      "machine": "Imperial Gold 09",
+      "mc": "2017",
+      "name": "Frequent",
+      "note": "",
+      "src": "sim",
+      "ts": 1792122616273
+    },
+    "sim-mvafl4mvdqqp": {
+      "amount": 6264.3,
+      "at": 1792122704311,
+      "group": "Machine",
+      "machine": "Fire Lantern 02",
+      "mc": "4020",
+      "name": "Fire Lantern 02",
+      "note": "",
+      "src": "sim",
+      "ts": 1792122704311
+    }
+  }
+}
